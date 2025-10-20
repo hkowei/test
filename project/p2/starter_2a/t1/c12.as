@@ -1,0 +1,2 @@
+        halt
+ptr     .fill GlobalX

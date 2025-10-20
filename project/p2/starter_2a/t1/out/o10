@@ -1,0 +1,5 @@
+2 0 1 1
+0x00810000
+0x01800000
+GlobalB U 0
+0 lw GlobalB

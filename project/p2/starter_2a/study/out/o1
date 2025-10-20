@@ -1,0 +1,26 @@
+5 5 8 7
+0x01800000
+0x00C10000
+0x00810006
+0x00C10005
+0x01800000
+0x00000000
+0x0000005A
+0x00000000
+0x00000000
+0x00000000
+F T 0
+G T 1
+GlobA D 0
+APPEAR D 4
+Nothere U 0
+S U 0
+SYM_U_0_2_.fill_RELOC U 0
+SHIT U 0
+1 sw Nothere
+2 lw fuck
+3 sw GlobA
+0 .fill S
+2 .fill SYM_U_0_2_.fill_RELOC
+3 .fill SHIT
+4 .fill SHIT
